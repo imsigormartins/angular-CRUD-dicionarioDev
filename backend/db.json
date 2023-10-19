@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Angular é um framework frontend que fortalece o desempenho de desenvolvimento web.",
+      "conceito": "Angular",
+      "modelo": "modelo1",
+      "id": 5
+    },
+    {
+      "conteudo": "React é um framework JavaScript que melhor o desempenho no desenvolvimento web.",
+      "conceito": "React",
+      "modelo": "modelo3",
+      "id": 6
+    }
+  ]
+}
