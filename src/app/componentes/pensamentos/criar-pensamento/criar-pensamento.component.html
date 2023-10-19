@@ -3,24 +3,27 @@
     <h2>Adicione um <br>conceito novo:</h2>
   </header>
   <form>
-    <label for="definicao">Definição</label>
-    <input
-      type="textarea"
-      class="input"
-      id="definicao"
-      name="definicao"
-      placeholder="Digite a definicão"
-      [(ngModel)]="pensamento.conteudo"
-    >
+
     <label for="conceito">Conceito ou termo</label>
     <input
       type="text"
       class="input"
       id="conceito"
       name="conceito"
-      placeholder="Digite a conceito ou fonte"
+      placeholder="O que é...?"
       [(ngModel)]="pensamento.conceito"
     >
+
+    <label for="definicao">Definição</label>
+    <input
+      type="textarea"
+      class="input"
+      id="definicao"
+      name="definicao"
+      placeholder="Defina o termo"
+      [(ngModel)]="pensamento.conteudo"
+    >
+
     <label for="modelo">Selecione o modelo do card:</label>
     <div class="container-radio">
       <div class="radio-modelo">

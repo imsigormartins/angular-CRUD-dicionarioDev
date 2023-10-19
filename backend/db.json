@@ -11,6 +11,18 @@
       "conceito": "React",
       "modelo": "modelo3",
       "id": 6
+    },
+    {
+      "conteudo": "Backend ou server side é a parte de desenvolvimento onde o usuário não vê!",
+      "conceito": "Backend",
+      "modelo": "modelo1",
+      "id": 7
+    },
+    {
+      "conteudo": "é um SGBD (sistema gerenciador de banco de dados) relacional",
+      "conceito": "Postgree",
+      "modelo": "modelo3",
+      "id": 8
     }
   ]
 }
